@@ -167,3 +167,50 @@
     padding: 50px;
     align-items: center;
 }
+
+/* appointment styles  */
+.appointment{
+    background-color: red;
+    display: flex;
+    width: 75%;
+    height: 30vh;
+    border: none;
+    border-radius: 10px;
+    align-items: center;
+    gap: 200px;
+    margin-left: 120px;
+    margin-top: -70px;
+    padding: 30px;
+}
+.phone-call-img{
+    width: 70px;
+    height: 70px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.phone-number{
+    color: white;
+    margin-right: 20px;
+}
+.phone{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    border-right: 1px solid white;
+}
+.appointment-instruction{
+    color: white;
+}
+.appointment-text{
+    width: 50%;
+}
+.btn-fifth{
+    background-color: lightgoldenrodyellow;
+    color: black;
+    padding: 20px;
+    border: none;
+    border-radius: 50px;
+}
+.appointment-details{
+    display: flex;
+}
